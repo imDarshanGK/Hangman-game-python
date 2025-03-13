@@ -12,11 +12,10 @@ This repository contains a Python implementation of the classic Hangman game. Pl
 1. Clone the repository:  
    `git clone https://github.com/imDarshanGK/Hangman-game-python.git`
 2. Run the game:  
-   `python hangman.py`
+   `python Hangman_game.py`
 3. Enjoy guessing the hidden word! 🎉
 
 ## Contributions
 Feel free to fork, suggest improvements, or contribute enhancements to this project.
 
 ---
-Enjoy the challenge of Hangman while honing your Python skills! 🎯
